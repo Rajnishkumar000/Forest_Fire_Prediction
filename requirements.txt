@@ -5,3 +5,8 @@ Pillow==9.3.0
 torch==1.10.0+cu113
 torchmetrics==0.8.2
 torchvision==0.7.0+cu101
+plotly
+streamlit
+fastapi
+uvicorn
+python-multipart
